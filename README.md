@@ -13,9 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irakeshr&layout=compact&theme=radical&hide_border=true&border_radius=20" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=irakeshr&theme=radical&border_radius=20&hide_border=true" height="150" alt="streak graph" />
-</div>
+ 
 
 ---
 
