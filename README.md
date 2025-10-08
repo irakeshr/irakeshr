@@ -1,4 +1,4 @@
-# Hi 👋! My name is Rakesh and I'm a passionate Developer from India 🚀
+# Hi 👋! My name is Rakesh and I'm a passionate Developer from Kerala 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Always+learning+new+things;Passionate+about+coding!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
