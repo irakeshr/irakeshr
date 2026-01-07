@@ -49,14 +49,7 @@
 <br clear="both" />
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irakeshr&theme=radical&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
+ 
 
   
 
