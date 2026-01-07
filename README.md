@@ -6,17 +6,6 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irakeshr&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=20" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irakeshr&layout=compact&theme=radical&hide_border=true&border_radius=20" height="150" alt="languages graph" />
-</div>
-
- 
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
